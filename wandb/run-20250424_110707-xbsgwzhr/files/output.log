@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 60, in <module>
+    class_weights = compute_class_weight(class_weight='balanced', classes=np.unique(train_labels), y=train_labels)
+NameError: name 'np' is not defined
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 60, in <module>
+    class_weights = compute_class_weight(class_weight='balanced', classes=np.unique(train_labels), y=train_labels)
+NameError: name 'np' is not defined

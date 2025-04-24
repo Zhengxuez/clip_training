@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.14",
+  "startedAt": "2025-04-24T10:07:08.019172Z",
+  "program": "D:\\2-postdoc\\fun_stuff\\2-Satheesh\\open_clip\\train_2.py",
+  "codePath": "train_2.py",
+  "git": {
+    "remote": "https://github.com/mlfoundations/open_clip.git",
+    "commit": "bf5d49c112c82c738f7b34bde6e154760a711790"
+  },
+  "email": "neuzhouzhengxue@gmail.com",
+  "root": "D:\\2-postdoc\\fun_stuff\\2-Satheesh\\open_clip",
+  "host": "zhouzx",
+  "executable": "C:\\Users\\28098\\miniconda3\\envs\\llava\\python.exe",
+  "codePathLocal": "train_2.py",
+  "cpu_count": 16,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "904921083904",
+      "used": "422054989824"
+    }
+  },
+  "memory": {
+    "total": "34070847488"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+      "memoryTotal": "17179869184",
+      "cudaCores": 7424,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

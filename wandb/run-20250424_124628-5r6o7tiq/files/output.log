@@ -1,0 +1,11 @@
+[Train] Epoch 1: 100%|█████████████████████████████████████████████████████████████████| 32/32 [25:01<00:00, 46.93s/it]
+[Epoch 1] Train Loss: 2.0632
+[Val] Epoch 1:   0%|                                                                                                                                                                       | 0/7 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 109, in <module>
+    text_features = model.get_text_features(**inputs)
+TypeError: CLIPModel.get_text_features() got an unexpected keyword argument 'pixel_values'
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 109, in <module>
+    text_features = model.get_text_features(**inputs)
+TypeError: CLIPModel.get_text_features() got an unexpected keyword argument 'pixel_values'

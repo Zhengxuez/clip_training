@@ -1,0 +1,21 @@
+[Train] Epoch 1:  20%|██████████████████████████████▌                                                                                                                            | 15/76 [13:43<55:49, 54.90s/it]
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 87, in <module>
+    loss.backward()
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\autograd\__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\autograd\graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 87, in <module>
+    loss.backward()
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\autograd\__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\autograd\graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

@@ -1,0 +1,2116 @@
+[
+  {
+    "image": "dataset/navigation/object vial on the floor_84.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object glove",
+    "confidence": 0.3022,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_17.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5196,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_26.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5624,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_60.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.3683,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_78.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6183,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_21.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4029,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_64.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4926,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_111.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.4847,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_444.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7707,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_166.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9213,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_477.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9829,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_155.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9741,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_254.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9916,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_77.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6903,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_245.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9761,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_36.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4033,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_388.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9921,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_85.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4645,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_212.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9925,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_276.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7787,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_94.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4669,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_17.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.6849,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_429.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9669,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_173.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9872,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_207.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9939,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_338.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6177,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_60.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.981,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_255.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9222,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_127.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.461,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_236.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9928,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_442.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9729,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_127.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9805,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_253.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.976,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_411.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9648,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_490.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9921,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_548.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8951,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_497.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9831,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_351.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9611,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_229.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9632,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_261.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.499,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_503.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.5514,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_285.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9883,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_88.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.53,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_24.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.4009,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_343.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9596,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_111.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.422,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_8.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.5729,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_541.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9872,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_63.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.6292,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_7.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.5938,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_188.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9821,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_470.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9944,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_488.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9855,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_80.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.6256,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_314.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9873,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_190.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5316,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_286.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8438,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_30.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.678,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_332.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8838,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_43.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.9087,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_290.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9659,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_5.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.6013,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_165.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9661,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_482.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9791,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_380.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9836,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_390.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9755,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_14.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8643,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_48.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4871,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_135.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9876,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_140.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9792,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_174.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9693,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_368.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7178,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_293.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8494,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_41.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.6465,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_52.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object glove",
+    "confidence": 0.3199,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_11.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.5085,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_123.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9846,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_129.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9868,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_36.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.9779,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_217.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9725,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_97.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4417,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_119.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4653,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_5.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5205,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_283.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.736,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_69.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4301,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_85.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8098,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_7.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.5349,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_178.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.989,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_57.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.542,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_29.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.6985,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_63.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object glove",
+    "confidence": 0.3319,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_252.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9186,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_90.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.5893,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_133.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.3859,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_424.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5357,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_81.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.5878,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_477.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9936,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_476.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9947,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_197.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.973,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_66.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.369,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_65.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5288,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_179.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9613,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_79.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.881,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_89.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.3788,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_113.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.5071,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_79.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5197,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_15.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.5292,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_384.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.67,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_286.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9531,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_203.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9747,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_45.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7144,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_472.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9668,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_78.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.97,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_26.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.908,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_114.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.967,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_65.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4627,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_21.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.6494,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_238.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5736,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_43.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.533,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_137.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8015,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_2.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.653,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_79.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.3993,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_347.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6553,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_305.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9345,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_11.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4172,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_117.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9227,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_225.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9687,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_287.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.8473,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_51.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.544,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_98.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.6927,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_128.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9759,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_330.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9821,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_75.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.5307,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_95.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8304,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_464.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9915,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_494.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9665,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_60.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.7876,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_15.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9918,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_502.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.6048,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_125.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.631,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_92.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8225,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_419.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.964,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_96.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8389,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_223.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7652,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_294.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9445,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_313.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8766,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_102.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.655,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_53.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5948,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_7.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.6391,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_217.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6659,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_41.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.663,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_479.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5218,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_172.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9628,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_366.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9754,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_81.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4428,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_42.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.6578,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_167.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.949,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_12.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.454,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_137.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.4092,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_266.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9933,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_344.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9362,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_332.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7619,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_24.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5045,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_522.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9849,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_101.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.7335,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_38.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.52,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_112.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8481,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_38.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9909,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_84.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.6458,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_56.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.9369,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_102.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9331,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_371.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.6769,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_288.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9635,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_481.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9135,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_383.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7546,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_195.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.929,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_163.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9923,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_71.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8563,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_398.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9642,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_83.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.586,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_347.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9713,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_42.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9868,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_172.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9703,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_13.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.605,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_412.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9747,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_47.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.6381,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_7.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.9383,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_292.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9642,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_131.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8463,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_29.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.513,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_161.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9936,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_28.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation object glove",
+    "confidence": 0.3537,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_45.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.6892,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_37.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8312,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_94.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.7426,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_227.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9678,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_386.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7908,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_290.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.666,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_34.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.6649,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_387.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9896,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_84.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9725,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_40.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7885,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_183.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.825,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_220.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9242,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_56.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object glove",
+    "confidence": 0.359,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_22.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.4054,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_32.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4134,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/Empty floor_408.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9678,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_91.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.994,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_216.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9755,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_291.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9364,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_139.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.98,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_204.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9757,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_25.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.4583,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_30.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5315,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_381.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9837,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_29.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.5528,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_25.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9386,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_142.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8773,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_494.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9574,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_30.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.5938,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_128.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation object tool",
+    "confidence": 0.5651,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_456.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9736,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_23.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.3782,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_55.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9898,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_221.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9666,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_499.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9542,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_42.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.5883,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_544.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9294,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_140.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5296,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_30.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.727,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_31.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.987,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_192.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8943,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_71.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.4076,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_54.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.5926,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_303.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9343,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_230.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.801,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object tool on the floor_61.jpg",
+    "ground_truth": "navigation object tool",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.4028,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_123.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9209,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_68.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9891,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_265.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9308,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_105.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.4174,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_307.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9937,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_81.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.9552,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_19.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4833,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_96.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.6854,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_18.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5175,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_25.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.6412,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_17.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9923,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_226.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9856,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_452.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9901,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_28.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9101,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_334.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9539,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_83.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7668,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_146.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9897,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_52.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9924,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_325.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7742,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_317.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8172,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object glove on the floor_44.jpg",
+    "ground_truth": "navigation object glove",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5007,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_498.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9707,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_148.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.8881,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_272.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9887,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_188.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5046,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_58.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9852,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_121.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8259,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_51.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.5206,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_130.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9327,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_224.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9692,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_271.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.616,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_128.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9256,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_196.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9788,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_237.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9734,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_7.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9776,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_428.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9886,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_59.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.7213,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_91.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.7457,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_280.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.8405,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_193.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9754,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_256.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8942,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_313.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9859,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_447.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9774,
+    "correct": false
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_407.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9944,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_163.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9511,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_475.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.7205,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_hazard\\image_306.jpg",
+    "ground_truth": "chemspeed hazard",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.9922,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/spillage_97.jpg",
+    "ground_truth": "capping spillage",
+    "predicted_label": "capping spillage",
+    "confidence": 0.7591,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_194.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.7831,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_511.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.902,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_440.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9597,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/Empty floor_284.jpg",
+    "ground_truth": "navigation Empty floor",
+    "predicted_label": "navigation empty floor",
+    "confidence": 0.9347,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_110.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed clear",
+    "confidence": 0.9241,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_vial_87.jpg",
+    "ground_truth": "capping missing vial",
+    "predicted_label": "capping missing vial",
+    "confidence": 0.5976,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_hazard/missing_cap_78.jpg",
+    "ground_truth": "capping missing cap",
+    "predicted_label": "capping missing cap",
+    "confidence": 0.6171,
+    "correct": true
+  },
+  {
+    "image": "dataset/navigation/object vial on the floor_102.jpg",
+    "ground_truth": "navigation object vial",
+    "predicted_label": "navigation object vial",
+    "confidence": 0.4967,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_179.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.6488,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_hazard/obstruction_56.jpg",
+    "ground_truth": "capping obstruction",
+    "predicted_label": "capping obstruction",
+    "confidence": 0.9893,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_21.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5311,
+    "correct": false
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_13.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.8876,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_361.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9716,
+    "correct": true
+  },
+  {
+    "image": "./dataset/capping_clear/clear_rack_332.jpg",
+    "ground_truth": "capping clear",
+    "predicted_label": "capping clear",
+    "confidence": 0.9104,
+    "correct": true
+  },
+  {
+    "image": "./dataset\\chemspeed_clear\\image_63.jpg",
+    "ground_truth": "chemspeed clear",
+    "predicted_label": "chemspeed hazard",
+    "confidence": 0.5968,
+    "correct": false
+  },
+  {
+    "image": "dataset/navigation/other objects on the floor_116.jpg",
+    "ground_truth": "navigation other objects",
+    "predicted_label": "navigation other objects",
+    "confidence": 0.3998,
+    "correct": true
+  }
+]

@@ -1,0 +1,33 @@
+[Train] Epoch 1:  66%|█████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                     | 50/76 [41:20<21:29, 49.61s/it]
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 86, in <module>
+    optimizer.step()
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 487, in wrapper
+    out = func(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 91, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 223, in step
+    adam(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 154, in maybe_fallback
+    return func(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 784, in adam
+    func(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 542, in _multi_tensor_adam
+    torch._foreach_mul_(device_exp_avg_sqs, beta2)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 86, in <module>
+    optimizer.step()
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 487, in wrapper
+    out = func(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 91, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 223, in step
+    adam(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\optimizer.py", line 154, in maybe_fallback
+    return func(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 784, in adam
+    func(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\optim\adam.py", line 542, in _multi_tensor_adam
+    torch._foreach_mul_(device_exp_avg_sqs, beta2)
+KeyboardInterrupt

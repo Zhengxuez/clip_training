@@ -1,0 +1,25 @@
+[Train] Epoch 1:   0%|                                                                                                                                                                    | 0/76 [00:03<?, ?it/s]
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 82, in <module>
+    loss = (loss_fn(logits_per_image, ground_truth) + loss_fn(logits_per_text, ground_truth)) / 2
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\loss.py", line 1293, in forward
+    return F.cross_entropy(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\functional.py", line 3479, in cross_entropy
+    return torch._C._nn.cross_entropy_loss(
+RuntimeError: weight tensor should be defined either for all 32 classes or no classes but got weight tensor of shape: [12]
+Traceback (most recent call last):
+  File "D:\2-postdoc\fun_stuff\2-Satheesh\open_clip\train_2.py", line 82, in <module>
+    loss = (loss_fn(logits_per_image, ground_truth) + loss_fn(logits_per_text, ground_truth)) / 2
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\modules\loss.py", line 1293, in forward
+    return F.cross_entropy(
+  File "C:\Users\28098\miniconda3\envs\llava\lib\site-packages\torch\nn\functional.py", line 3479, in cross_entropy
+    return torch._C._nn.cross_entropy_loss(
+RuntimeError: weight tensor should be defined either for all 32 classes or no classes but got weight tensor of shape: [12]

@@ -1,0 +1,507 @@
+[Train] Epoch 1: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:28<00:00,  3.37s/it]
+[Epoch 1] Train Loss: 1.4037
+[Val] Epoch 1: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 1] Validation Loss: 1.2495
+Saved best model.
+[Train] Epoch 2: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.32s/it]
+[Epoch 2] Train Loss: 1.4866
+[Val] Epoch 2: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 2] Validation Loss: 1.3445
+[Train] Epoch 3: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:21<00:00,  3.32s/it]
+[Epoch 3] Train Loss: 1.6651
+[Val] Epoch 3: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.60it/s]
+[Epoch 3] Validation Loss: 2.1499
+[Train] Epoch 4: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 4] Train Loss: 2.0161
+[Val] Epoch 4: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 4] Validation Loss: 1.8214
+[Train] Epoch 5: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 5] Train Loss: 1.8045
+[Val] Epoch 5: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 5] Validation Loss: 1.7606
+[Train] Epoch 6: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 6] Train Loss: 1.7569
+[Val] Epoch 6: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 6] Validation Loss: 1.7458
+[Train] Epoch 7: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 7] Train Loss: 1.8078
+[Val] Epoch 7: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 7] Validation Loss: 1.7388
+[Train] Epoch 8: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 8] Train Loss: 1.7803
+[Val] Epoch 8: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.55it/s]
+[Epoch 8] Validation Loss: 1.7326
+[Train] Epoch 9: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 9] Train Loss: 1.7280
+[Val] Epoch 9: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.51it/s]
+[Epoch 9] Validation Loss: 1.6801
+[Train] Epoch 10: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 10] Train Loss: 1.6550
+[Val] Epoch 10: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.60it/s]
+[Epoch 10] Validation Loss: 1.5932
+[Train] Epoch 11: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:21<00:00,  3.32s/it]
+[Epoch 11] Train Loss: 1.5339
+[Val] Epoch 11: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 11] Validation Loss: 1.5589
+[Train] Epoch 12: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 12] Train Loss: 1.5311
+[Val] Epoch 12: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 12] Validation Loss: 1.6090
+[Train] Epoch 13: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 13] Train Loss: 1.4818
+[Val] Epoch 13: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.61it/s]
+[Epoch 13] Validation Loss: 1.4499
+[Train] Epoch 14: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 14] Train Loss: 1.4667
+[Val] Epoch 14: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.60it/s]
+[Epoch 14] Validation Loss: 1.4391
+[Train] Epoch 15: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 15] Train Loss: 1.4357
+[Val] Epoch 15: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 15] Validation Loss: 1.4045
+[Train] Epoch 16: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 16] Train Loss: 1.4191
+[Val] Epoch 16: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 16] Validation Loss: 1.4746
+[Train] Epoch 17: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 17] Train Loss: 1.3826
+[Val] Epoch 17: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 17] Validation Loss: 1.4156
+[Train] Epoch 18: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 18] Train Loss: 1.3630
+[Val] Epoch 18: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 18] Validation Loss: 1.4338
+[Train] Epoch 19: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 19] Train Loss: 1.3361
+[Val] Epoch 19: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 19] Validation Loss: 1.3795
+[Train] Epoch 20: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 20] Train Loss: 1.3209
+[Val] Epoch 20: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.64it/s]
+[Epoch 20] Validation Loss: 1.4006
+[Train] Epoch 21: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 21] Train Loss: 1.2857
+[Val] Epoch 21: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.55it/s]
+[Epoch 21] Validation Loss: 1.4024
+[Train] Epoch 22: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 22] Train Loss: 1.3153
+[Val] Epoch 22: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.64it/s]
+[Epoch 22] Validation Loss: 1.4069
+[Train] Epoch 23: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:21<00:00,  3.32s/it]
+[Epoch 23] Train Loss: 1.2964
+[Val] Epoch 23: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.61it/s]
+[Epoch 23] Validation Loss: 1.4868
+[Train] Epoch 24: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 24] Train Loss: 1.2687
+[Val] Epoch 24: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.56it/s]
+[Epoch 24] Validation Loss: 1.3955
+[Train] Epoch 25: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 25] Train Loss: 1.2670
+[Val] Epoch 25: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 25] Validation Loss: 1.4352
+[Train] Epoch 26: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 26] Train Loss: 1.2683
+[Val] Epoch 26: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 26] Validation Loss: 1.4166
+[Train] Epoch 27: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 27] Train Loss: 1.2544
+[Val] Epoch 27: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 27] Validation Loss: 1.4441
+[Train] Epoch 28: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 28] Train Loss: 1.2314
+[Val] Epoch 28: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.64it/s]
+[Epoch 28] Validation Loss: 1.3845
+[Train] Epoch 29: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 29] Train Loss: 1.2229
+[Val] Epoch 29: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 29] Validation Loss: 1.4433
+[Train] Epoch 30: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 30] Train Loss: 1.2257
+[Val] Epoch 30: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 30] Validation Loss: 1.6924
+[Train] Epoch 31: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 31] Train Loss: 1.2357
+[Val] Epoch 31: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 31] Validation Loss: 1.4627
+[Train] Epoch 32: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 32] Train Loss: 1.2199
+[Val] Epoch 32: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.55it/s]
+[Epoch 32] Validation Loss: 1.6077
+[Train] Epoch 33: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 33] Train Loss: 1.1910
+[Val] Epoch 33: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 33] Validation Loss: 1.4164
+[Train] Epoch 34: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 34] Train Loss: 1.1897
+[Val] Epoch 34: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.60it/s]
+[Epoch 34] Validation Loss: 1.3923
+[Train] Epoch 35: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 35] Train Loss: 1.1783
+[Val] Epoch 35: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.59it/s]
+[Epoch 35] Validation Loss: 1.3533
+[Train] Epoch 36: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 36] Train Loss: 1.1805
+[Val] Epoch 36: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.61it/s]
+[Epoch 36] Validation Loss: 1.6348
+[Train] Epoch 37: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 37] Train Loss: 1.1682
+[Val] Epoch 37: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 37] Validation Loss: 1.4450
+[Train] Epoch 38: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 38] Train Loss: 1.1519
+[Val] Epoch 38: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 38] Validation Loss: 1.3564
+[Train] Epoch 39: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 39] Train Loss: 1.1867
+[Val] Epoch 39: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.61it/s]
+[Epoch 39] Validation Loss: 1.4392
+[Train] Epoch 40: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 40] Train Loss: 1.1601
+[Val] Epoch 40: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 40] Validation Loss: 1.4114
+[Train] Epoch 41: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 41] Train Loss: 1.1451
+[Val] Epoch 41: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 41] Validation Loss: 1.5251
+[Train] Epoch 42: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 42] Train Loss: 1.1621
+[Val] Epoch 42: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 42] Validation Loss: 1.4434
+[Train] Epoch 43: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 43] Train Loss: 1.1557
+[Val] Epoch 43: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.57it/s]
+[Epoch 43] Validation Loss: 1.4897
+[Train] Epoch 44: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:23<00:00,  3.33s/it]
+[Epoch 44] Train Loss: 1.1200
+[Val] Epoch 44: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.55it/s]
+[Epoch 44] Validation Loss: 1.4983
+[Train] Epoch 45: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 45] Train Loss: 1.1299
+[Val] Epoch 45: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 45] Validation Loss: 1.4223
+[Train] Epoch 46: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 46] Train Loss: 1.1388
+[Val] Epoch 46: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 46] Validation Loss: 1.4090
+[Train] Epoch 47: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 47] Train Loss: 1.1423
+[Val] Epoch 47: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.62it/s]
+[Epoch 47] Validation Loss: 1.5282
+[Train] Epoch 48: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 48] Train Loss: 1.1124
+[Val] Epoch 48: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.58it/s]
+[Epoch 48] Validation Loss: 1.4902
+[Train] Epoch 49: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 49] Train Loss: 1.1316
+[Val] Epoch 49: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.60it/s]
+[Epoch 49] Validation Loss: 1.4190
+[Train] Epoch 50: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 151/151 [08:22<00:00,  3.33s/it]
+[Epoch 50] Train Loss: 1.1356
+[Val] Epoch 50: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:07<00:00,  2.53it/s]
+[Epoch 50] Validation Loss: 1.4388
+Training complete.
+
+🔍 Evaluating on test set...
+Testing:  10%|████████████████                                                                                                                                                  | 30/302 [00:01<00:10, 25.84it/s]
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed clear' (0.66)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping missing vial' (0.62)
+Top prediction: 'chemspeed hazard' (0.68)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping missing vial' (0.64)
+Top prediction: 'capping spillage' (0.69)
+Top prediction: 'capping clear' (0.82)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed hazard' (0.96)
+Top prediction: 'chemspeed hazard' (0.67)
+Top prediction: 'chemspeed clear' (0.88)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed clear' (0.56)
+Top prediction: 'capping clear' (0.81)
+Top prediction: 'navigation Empty floor' (0.92)
+Top prediction: 'navigation Empty floor' (0.70)
+Top prediction: 'chemspeed clear' (0.87)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation object tool' (0.49)
+Top prediction: 'navigation object tool' (0.39)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.84)
+Top prediction: 'chemspeed hazard' (0.98)
+Top prediction: 'navigation Empty floor' (0.96)
+Top prediction: 'navigation object tool' (0.54)
+Top prediction: 'navigation Empty floor' (0.54)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'chemspeed clear' (0.82)
+Top prediction: 'navigation other objects' (0.27)
+Top prediction: 'navigation Empty floor' (0.93)
+Top prediction: 'chemspeed clear' (0.76)
+Top prediction: 'navigation Empty floor' (0.95)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation object glove' (0.26)
+Top prediction: 'navigation object vial' (0.43)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'navigation Empty floor' (0.92)
+Top prediction: 'navigation Empty floor' (0.63)
+Top prediction: 'chemspeed hazard' (0.80)
+Top prediction: 'navigation object vial' (0.45)
+Top prediction: 'chemspeed clear' (0.71)
+Top prediction: 'navigation object tool' (0.34)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.85)
+Top prediction: 'chemspeed clear' (0.75)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.96)
+Top prediction: 'chemspeed clear' (0.65)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.95)
+Top prediction: 'chemspeed hazard' (0.98)
+Top prediction: 'chemspeed clear' (0.53)
+Top prediction: 'navigation object glove' (0.26)
+Top prediction: 'chemspeed clear' (0.71)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'capping clear' (0.87)
+Top prediction: 'navigation object vial' (0.38)
+Top prediction: 'capping clear' (0.95)
+Top prediction: 'chemspeed clear' (0.90)
+Top prediction: 'chemspeed clear' (0.81)
+Top prediction: 'chemspeed hazard' (0.98)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping obstruction' (0.76)
+Top prediction: 'chemspeed hazard' (0.54)
+Top prediction: 'chemspeed clear' (0.79)
+Top prediction: 'chemspeed clear' (0.90)
+Top prediction: 'chemspeed clear' (0.52)
+Top prediction: 'navigation object vial' (0.52)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'capping spillage' (0.79)
+Top prediction: 'chemspeed hazard' (0.53)
+Top prediction: 'navigation other objects' (0.27)
+Top prediction: 'navigation Empty floor' (0.51)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation Empty floor' (0.58)
+Top prediction: 'capping clear' (0.76)
+Top prediction: 'chemspeed clear' (0.79)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation object glove' (0.25)
+Top prediction: 'chemspeed clear' (0.64)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping spillage' (0.88)
+Top prediction: 'navigation Empty floor' (0.76)
+Top prediction: 'capping spillage' (0.69)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'capping clear' (0.88)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping clear' (0.87)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.97)
+Top prediction: 'chemspeed clear' (0.84)
+Top prediction: 'navigation object vial' (0.44)
+Top prediction: 'chemspeed hazard' (0.83)
+Top prediction: 'chemspeed clear' (0.75)
+Top prediction: 'navigation object glove' (0.24)
+Top prediction: 'navigation object vial' (0.40)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'capping missing vial' (0.54)
+Top prediction: 'chemspeed clear' (0.56)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed clear' (0.86)
+Top prediction: 'navigation Empty floor' (0.84)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping spillage' (0.89)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'navigation object tool' (0.49)
+Top prediction: 'navigation Empty floor' (0.81)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation Empty floor' (0.86)
+Top prediction: 'chemspeed clear' (0.52)
+Top prediction: 'navigation object vial' (0.49)
+Top prediction: 'navigation Empty floor' (0.59)
+Top prediction: 'capping obstruction' (0.98)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'chemspeed hazard' (0.97)
+Top prediction: 'chemspeed clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.94)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation other objects' (0.28)
+Top prediction: 'navigation Empty floor' (0.80)
+Top prediction: 'chemspeed clear' (0.86)
+Top prediction: 'capping missing vial' (0.60)
+Top prediction: 'chemspeed hazard' (0.57)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation other objects' (0.24)
+Top prediction: 'chemspeed clear' (0.68)
+Top prediction: 'chemspeed hazard' (0.60)
+Top prediction: 'navigation object vial' (0.42)
+Top prediction: 'chemspeed clear' (0.87)
+Top prediction: 'navigation Empty floor' (0.74)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.65)
+Top prediction: 'navigation Empty floor' (0.62)
+Top prediction: 'capping clear' (0.98)
+Top prediction: 'navigation object glove' (0.26)
+Top prediction: 'navigation object vial' (0.37)
+Top prediction: 'chemspeed hazard' (0.97)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'capping spillage' (0.85)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'chemspeed hazard' (0.60)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed clear' (0.77)
+Top prediction: 'chemspeed clear' (0.93)
+Top prediction: 'chemspeed clear' (0.65)
+Top prediction: 'navigation Empty floor' (0.88)
+Top prediction: 'chemspeed clear' (0.66)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping clear' (0.94)
+Top prediction: 'navigation object vial' (0.41)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'navigation object tool' (0.38)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'navigation Empty floor' (0.41)
+Top prediction: 'capping clear' (0.95)
+Top prediction: 'navigation Empty floor' (0.75)
+Top prediction: 'chemspeed clear' (0.56)
+Top prediction: 'capping spillage' (0.66)
+Top prediction: 'capping spillage' (0.88)
+Top prediction: 'navigation object glove' (0.29)
+Top prediction: 'chemspeed clear' (0.88)
+Top prediction: 'navigation Empty floor' (0.92)
+Top prediction: 'navigation Empty floor' (0.45)
+Top prediction: 'chemspeed clear' (0.92)
+Top prediction: 'chemspeed clear' (0.95)
+Top prediction: 'navigation Empty floor' (0.87)
+Top prediction: 'navigation Empty floor' (0.41)
+Top prediction: 'chemspeed hazard' (0.98)
+Top prediction: 'navigation object glove' (0.29)
+Top prediction: 'navigation object tool' (0.41)
+Top prediction: 'navigation other objects' (0.29)
+Top prediction: 'capping clear' (0.95)
+Top prediction: 'navigation Empty floor' (0.90)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'navigation object tool' (0.31)
+Top prediction: 'capping spillage' (0.93)
+Top prediction: 'navigation Empty floor' (0.93)
+Top prediction: 'chemspeed clear' (0.71)
+Top prediction: 'chemspeed clear' (0.70)
+Top prediction: 'capping missing vial' (0.63)
+Top prediction: 'navigation Empty floor' (0.64)
+Top prediction: 'capping spillage' (0.71)
+Top prediction: 'navigation Empty floor' (0.56)
+Top prediction: 'navigation object tool' (0.50)
+Top prediction: 'chemspeed clear' (0.78)
+Top prediction: 'capping missing vial' (0.55)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'chemspeed clear' (0.83)
+Top prediction: 'navigation object vial' (0.50)
+Top prediction: 'capping spillage' (0.73)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'chemspeed clear' (0.65)
+Top prediction: 'capping missing cap' (0.59)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.91)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation object vial' (0.50)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.96)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed clear' (0.63)
+Top prediction: 'chemspeed clear' (0.66)
+Top prediction: 'chemspeed clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.95)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'capping clear' (0.93)
+Top prediction: 'navigation object tool' (0.32)
+Top prediction: 'capping obstruction' (0.92)
+Top prediction: 'chemspeed hazard' (0.57)
+Top prediction: 'chemspeed clear' (0.50)
+Top prediction: 'capping missing cap' (0.65)
+Top prediction: 'capping missing cap' (0.67)
+Top prediction: 'chemspeed hazard' (0.54)
+Top prediction: 'chemspeed hazard' (0.65)
+Top prediction: 'navigation Empty floor' (0.94)
+Top prediction: 'navigation object vial' (0.46)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.85)
+Top prediction: 'navigation Empty floor' (0.84)
+Top prediction: 'navigation object vial' (0.32)
+Top prediction: 'navigation object glove' (0.26)
+Top prediction: 'chemspeed clear' (0.86)
+Top prediction: 'capping clear' (0.92)
+Top prediction: 'chemspeed clear' (0.69)
+Top prediction: 'navigation object vial' (0.48)
+Top prediction: 'chemspeed clear' (0.60)
+Top prediction: 'capping missing cap' (0.63)
+Top prediction: 'chemspeed hazard' (0.98)
+Top prediction: 'capping obstruction' (0.98)
+Top prediction: 'chemspeed clear' (0.58)
+Top prediction: 'navigation other objects' (0.29)
+Top prediction: 'capping clear' (0.90)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'navigation object tool' (0.41)
+Top prediction: 'navigation Empty floor' (0.87)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation Empty floor' (0.89)
+Top prediction: 'navigation Empty floor' (0.52)
+Top prediction: 'capping clear' (0.95)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping missing cap' (0.50)
+Top prediction: 'chemspeed clear' (0.72)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation object glove' (0.29)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'capping missing vial' (0.64)
+Top prediction: 'navigation object vial' (0.44)
+Top prediction: 'navigation Empty floor' (0.97)
+Top prediction: 'chemspeed clear' (0.72)
+Top prediction: 'navigation object tool' (0.33)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'chemspeed hazard' (0.87)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (1.00)
+Top prediction: 'navigation object glove' (0.26)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'capping obstruction' (0.97)
+Top prediction: 'chemspeed hazard' (0.97)
+Top prediction: 'navigation object vial' (0.49)
+Top prediction: 'navigation object vial' (0.50)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'navigation Empty floor' (0.98)
+Top prediction: 'chemspeed clear' (0.96)
+Top prediction: 'navigation Empty floor' (0.83)
+Top prediction: 'navigation Empty floor' (0.86)
+Top prediction: 'capping clear' (0.74)
+Top prediction: 'navigation Empty floor' (0.99)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'capping missing cap' (0.51)
+Top prediction: 'capping clear' (0.97)
+Top prediction: 'capping clear' (0.96)
+Top prediction: 'capping missing cap' (0.58)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed hazard' (0.58)
+Top prediction: 'navigation Empty floor' (0.58)
+Top prediction: 'chemspeed hazard' (0.99)
+Top prediction: 'chemspeed clear' (0.84)
+Top prediction: 'chemspeed hazard' (0.91)
+Top prediction: 'capping spillage' (0.76)
+Top prediction: 'capping missing cap' (0.55)
+Top prediction: 'navigation Empty floor' (0.87)
+Top prediction: 'capping obstruction' (0.93)
+Top prediction: 'chemspeed hazard' (0.89)
